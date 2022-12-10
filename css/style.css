@@ -164,8 +164,19 @@ section{
 }
 
 .swiper-pagination{
-   bottom:0 !important;
+   bottom:0 !important; 
    margin: 0;
+}
+
+.swiper-pagination-bullet{
+   width: 10px;
+   height: 10px;
+   text-align: center;
+   line-height: 10px;
+   font-size: 12px;
+   color: rgb(230, 107, 20);
+   opacity: 1;
+   background: #fff;
 }
 
 .swiper-pagination-bullet-active{
@@ -322,12 +333,13 @@ section{
 
 .mariage .slide{
    height: 35rem;
-   width: 35rem;
+   width: 40rem;
    overflow: hidden;
    position: relative;
    user-select: none;
    margin-bottom: 4rem;
    display: flex;
+   
 }
 
 .mariage .slide img{
@@ -335,6 +347,7 @@ section{
    width: 100%;
    object-fit: cover;
    transition: .2s linear;
+   margin-left: 15px;
 }
 
 .mariage .slide:hover img{
@@ -364,7 +377,7 @@ section{
 
 .local .slide{
    height: 35rem;
-   width: 35rem;
+   width: 30rem;
    overflow: hidden;
    position: relative;
    user-select: none;
@@ -376,6 +389,7 @@ section{
    width: 100%;
    object-fit: cover;
    transition: .2s linear;
+   margin-left: 10px;
 }
 
 .local .slide:hover img{

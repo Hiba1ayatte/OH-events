@@ -11,11 +11,7 @@
 
    <!-- swiper css link  -->
    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
-   <style>
-    .swiper-pagination{
-        margin: 120px;
-    }
-   </style>
+   
 </head>
 <body>
 <div class="container">
@@ -46,9 +42,13 @@
             <div class="content">
                <a href="contact.php" class="btn">demander</a>
             </div>
-         </div>
+         </div>  
+      </div>
+</div>
 
-         <div class="swiper-slide slide">
+<div class="swiper mariage-slider" >
+      <div class="swiper-wrapper">
+        <div class="swiper-slide slide">
             <img src="images_site/tekchita/qjHmY53Z.jpg" alt="">
             <div class="content">
                <a href="acontact.php" class="btn">damander</a>
@@ -68,11 +68,9 @@
                <a href="contact.php" class="btn">demander</a>
             </div>
          </div>
-          
-        </div>
-        <div class="swiper-pagination"></div>
-   </div>
-
+      </div>
+</div>
+   
 </section>
 
 <section class="local">
@@ -109,7 +107,11 @@
             <a href="acontact.php" class="btn">damander</a>
          </div>
       </div>
-
+   </div>
+</div>   
+     
+<div class="swiper local-slider">
+      <div class="swiper-wrapper">
       <div class="swiper-slide slide">
          <img src="images_site/local/local5.jpg" alt="">
          <div class="content">
@@ -137,12 +139,13 @@
             <a href="contact.php" class="btn">demander</a>
          </div>
       </div>
-
-     </div>
-     <div class="swiper-pagination"></div>
+      </div>
+     
 </div>
-
 </section>
+
+<?php @include 'footer.php'; ?>
+
 </div>
 
 

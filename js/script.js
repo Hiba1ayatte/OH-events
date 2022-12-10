@@ -49,6 +49,9 @@ var swiper = new Swiper(".mariage-slider", {
   pagination: {
     el: ".swiper-pagination",
     clickable:true,
+    renderBullet: function(index,className){
+      return '<span class="' +className+ '">' + (index +1) + '</span>';
+    }
   },
   breakpoints: {
     450: {
@@ -70,6 +73,9 @@ var swiper = new Swiper(".local-slider", {
   pagination: {
     el: ".swiper-pagination",
     clickable:true,
+    // renderBullet: function(index,className){
+    //   return '<span class="' +className+ '">' + (index +1) + '</span>';
+    // }
   },
   breakpoints: {
     380: {
