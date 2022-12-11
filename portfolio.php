@@ -37,14 +37,14 @@
          <h3>mariage</h3>
       </a>
 
-      <a href="images/port-img-2.jpg" class="box">
+      <a href="homeanniv.php" class="box">
          <div class="image">
             <img src="images_site/birthday/boys/boy2.jpg" alt="">
          </div>
          <h3>fete d'anniversaire</h3>
       </a>
 
-      <a href="images/port-img-3.jpg" class="box">
+      <a href="baby-shower.php" class="box">
          <div class="image">
             <img src="images_site/birthday/Fall Theme Baby Shower 40+ Stunning Ideas For Decorations & Food.jpg" alt="">
          </div>

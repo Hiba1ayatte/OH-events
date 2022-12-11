@@ -77,7 +77,7 @@
             <div class="content">
                <h3>Les anniversaires</h3>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
-               <a href="about.php" class="btn">about us</a>
+               <a href="homeanniv.php" class="btn">Voir plus</a>
             </div>
          </div>
 
@@ -86,7 +86,7 @@
             <div class="content">
                <h3>douche de bébé</h3>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
-               <a href="about.php" class="btn">about us</a>
+               <a href="baby-shower.php" class="btn">Voir plus</a>
             </div>
          </div>
 

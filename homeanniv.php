@@ -4,7 +4,7 @@
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Baby shower</title>
+   <title>homeAnniversaire</title>
 
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery-js/1.4.0/css/lightgallery.min.css">
 
@@ -25,27 +25,24 @@
 </head>
 <body>
 <div class="container">
-
-<?php @include 'header.php'; ?>
-
 <section class="portfolio">
 
-     <h1 class="heading">Douche BéBé</h1>
+     <h1 class="heading">Les anniversaires</h1>
 
      <div class="portfolio-container">
 
-     <a href= "baby-boy.php" class="box">
+     <a href= "boyanniv.php" class="box">
       <div class="image">
-         <img src="images_site/baby_shower/boy/font-boys.jfif" alt="">
+         <img src="images_site/birthday/boys/boy1.jpg" alt="">
       </div>
-      <h3>Douche Bébé Garçcon</h3>
+      <h3>Pour les garçons</h3>
      </a>
 
-    <a href="baby-girl.php" class="box">
+    <a href="girlanniv.php" class="box">
       <div class="image">
-         <img src="images_site/baby_shower/girl/font-girl.jfif" alt="">
+         <img src="images_site/birthday/girls/Temas de festa de aniversário infantil veja 10 temáticas incríveis.png" alt="">
       </div>
-      <h3>Douche Bébé Fille</h3>
+      <h3>Pour les Filles</h3>
    </a>
 </section>
 
