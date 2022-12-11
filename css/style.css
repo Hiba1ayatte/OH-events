@@ -347,7 +347,7 @@ section{
    width: 100%;
    object-fit: cover;
    transition: .2s linear;
-   margin-left: 15px;
+   margin: 5px;
 }
 
 .mariage .slide:hover img{
@@ -393,7 +393,7 @@ section{
    width: 100%;
    object-fit: cover;
    transition: .2s linear;
-   margin-left: 10px;
+   margin: 5px;
 }
 
 .local .slide:hover img{
