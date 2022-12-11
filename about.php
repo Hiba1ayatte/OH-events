@@ -44,7 +44,7 @@
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
-            <a href="#" class="fab fa-linkedin"></a>
+            <a href="#" class="fab fa-whatsapp"></a>
             <a href="#" class="fab fa-instagram"></a>
          </div>
       </div>
@@ -56,7 +56,7 @@
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
-            <a href="#" class="fab fa-linkedin"></a>
+            <a href="#" class="fab fa-whatsapp"></a>
             <a href="#" class="fab fa-instagram"></a>
          </div>
       </div>
@@ -68,7 +68,7 @@
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
-            <a href="#" class="fab fa-linkedin"></a>
+            <a href="#" class="fab fa-whatsapp"></a>
             <a href="#" class="fab fa-instagram"></a>
          </div>
       </div>
@@ -80,7 +80,7 @@
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
-            <a href="#" class="fab fa-linkedin"></a>
+            <a href="#" class="fab fa-whatsapp"></a>
             <a href="#" class="fab fa-instagram"></a>
          </div>
       </div>
