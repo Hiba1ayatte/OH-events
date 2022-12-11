@@ -29,40 +29,46 @@
    <div class="box-container">
 
       <div class="box">
-         <h3>basic plan</h3>
-         <div class="price">$250/-</div>
+         <h3>Plan Basic</h3>
+         <div class="price">DH 4500/+</div>
          <div class="list">
-            <p> <i class="fas fa-check"></i> photography</p>
-            <p> <i class="fas fa-check"></i> bribe makeup</p>
-            <p> <i class="fas fa-check"></i> wedding ceromony</p>
-            <p> <i class="fas fa-check"></i> meals & drinks</p>
-            <p> <i class="fas fa-check"></i> guest invitations</p>
+            <p> <i class="fas fa-check"></i> photographie</p>
+            <p> <i class="fas fa-check"></i> Maquiallage</p>
+            <p> <i class="fas fa-check"></i> Invitations</p>
+            <p> <i class="fas fa-check"></i> Décoration</p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
          </div>
          <a href="contact.php" class="btn">choose plan</a>
       </div>
 
       <div class="box">
-         <h3>premium plan</h3>
-         <div class="price">$650/-</div>
+         <h3>Plan Premium </h3>
+         <div class="price">DH 7500/+</div>
          <div class="list">
-            <p> <i class="fas fa-check"></i> photography</p>
-            <p> <i class="fas fa-check"></i> bribe makeup</p>
-            <p> <i class="fas fa-check"></i> wedding ceromony</p>
-            <p> <i class="fas fa-check"></i> meals & drinks</p>
-            <p> <i class="fas fa-check"></i> guest invitations</p>
+         <p> <i class="fas fa-check"></i> photography</p>
+         <p> <i class="fas fa-check"></i> Makeup</p>
+         <p> <i class="fas fa-check"></i> Invitations</p>
+         <p> <i class="fas fa-check"></i> Décoration</p>
+         <p><i class="fas fa-check"></i> Animation & Music </p>
+         <p></p>
+         <p> </p>
          </div>
          <a href="contact.php" class="btn">choose plan</a>
       </div>
 
       <div class="box">
-         <h3>ultimate plan</h3>
-         <div class="price">$1250/-</div>
+         <h3>Plan Ultime </h3>
+         <div class="price">DH 15 500/+</div>
          <div class="list">
-            <p> <i class="fas fa-check"></i> photography</p>
-            <p> <i class="fas fa-check"></i> bribe makeup</p>
-            <p> <i class="fas fa-check"></i> wedding ceromony</p>
-            <p> <i class="fas fa-check"></i> meals & drinks</p>
-            <p> <i class="fas fa-check"></i> guest invitations</p>
+         <p> <i class="fas fa-check"></i> photography</p>
+         <p> <i class="fas fa-check"></i> Makeup</p>
+         <p> <i class="fas fa-check"></i> Invitations</p>
+         <p> <i class="fas fa-check"></i> Décoration</p>
+         <p><i class="fas fa-check"></i> Animation & Music </p>
+         <p> <i class="fas fa-check"></i> Meals & Drinks</p>
          </div>
          <a href="contact.php" class="btn">choose plan</a>
       </div>
