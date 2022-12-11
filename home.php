@@ -134,7 +134,7 @@
       <div class="swiper-wrapper">
 
          <div class="swiper-slide slide">
-            <img src="images/service-1.jpg" alt="">
+            <img src="images_site/services/photography.png" alt="">
             <div class="content">
                <h3>photographie</h3>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
@@ -143,7 +143,7 @@
          </div>
 
          <div class="swiper-slide slide">
-            <img src="images/service-2.jpg" alt="">
+            <img src="images_site/services/invitation.jfif" alt="">
             <div class="content">
                <h3>Invitations</h3>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
@@ -152,7 +152,7 @@
          </div>
 
          <div class="swiper-slide slide">
-            <img src="images/service-3.jpg" alt="">
+            <img src="images_site/services/decoration.jfif" alt="">
             <div class="content">
                <h3>Décoration</h3>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
@@ -161,7 +161,7 @@
          </div>
 
          <div class="swiper-slide slide">
-            <img src="images/service-4.jpg" alt="">
+            <img src="images_site/services/makeup.jfif" alt="">
             <div class="content">
                <h3>Makeup</h3>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
@@ -179,7 +179,7 @@
          </div>
 
          <div class="swiper-slide slide">
-            <img src="images/service-6.jpg" alt="">
+            <img src="images_site/services/meals.jpg" alt="">
             <div class="content">
                <h3>Meals & Drinks</h3>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
