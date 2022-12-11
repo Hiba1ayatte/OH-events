@@ -15,6 +15,20 @@
 </head>
 <body>
 <div class="container">
+
+<section class="header">
+
+   <a href="home.php" class="logo">OH Events</a>
+
+   <nav class="navbar">
+      <a href="baby-shower.php">Douche bébé</a>
+      <a href="contact.php"> Se Connecter</a>
+   </nav>
+
+   <div id="menu-btn" class="fas fa-bars"></div>
+
+</section>
+
 <section class="local">
 <h1 class="heading">douche bébé Fille</h1>
 
