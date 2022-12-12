@@ -24,7 +24,7 @@
 
 <section class="pricing">
 
-   <h1 class="heading">our pricing</h1>
+   <h1 class="heading">NOS PRIX</h1>
 
    <div class="box-container">
 
