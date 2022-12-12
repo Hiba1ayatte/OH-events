@@ -26,6 +26,7 @@
 
    <img src="images_site/wedding/dep.jpg" alt="">
    <h3>A propos</h3>
+   <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Distinctio sunt reprehenderit unde totam aliquam consequuntur, recusandae repudiandae expedita ut! Harum aliquid minima quisquam, id fugit reprehenderit deserunt enim nisi excepturi.</p>
    <a href="contact.php" class="btn">contacter-nous❤</a>
 
 </section>
@@ -39,7 +40,8 @@
       <div class="box">
          <img src="images_site/index.jpg" alt="">
          <h3>Ayatte Hiba</h3>
-         <p>wedding planner</p>
+         <p>Organisateur & Décore</p>
+         <p>Chef Cuisinier</p>
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
@@ -51,7 +53,8 @@
       <div class="box">
          <img src="images_site/index1.jpg" alt="">
          <h3>Ouhsaine Oumaima</h3>
-         <p>wedding planner</p>
+         <p>Organisateur & Décore </p>
+         <p>Annimateur & DJ </p>
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
@@ -62,8 +65,9 @@
 
       <div class="box">
          <img src="images_site/index3.jpg" alt="">
-         <h3>Nayef Aguerd</h3>
-         <p>wedding planner</p>
+         <h3>Aguerd Nayef</h3>
+         <p>Organisateur</p>
+         <p>Coiffeur & Maquilleur</p>
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
@@ -74,8 +78,9 @@
 
       <div class="box">
          <img src="images_site/index4.jpg" alt="">
-         <h3>Amrabet</h3>
-         <p>wedding planner</p>
+         <h3>Amrabet Soufiane</h3>
+         <p>Organisateur</p>
+         <p>Photographe</p>
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
