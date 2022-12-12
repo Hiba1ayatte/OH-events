@@ -9,9 +9,9 @@ if(isset($_POST['send'])){
    $number = $_POST['number'];
    $plan = $_POST['plan'];
    $address = $_POST['address'];
-   $message = $_POST['message'];
+   $event = $_POST['event'];
 
-   $insert = "INSERT INTO `contact_form`(`name`, `email`, `number`, `plan`, `address`, `message`) VALUES ('$name','$email','$number','$plan','$address','$message')";
+   $insert = "INSERT INTO `contact_form`(`name`, `email`, `number`, `plan`, `address`, `event`) VALUES ('$name','$email','$number','$plan','$address','$event')";
 
    mysqli_query($conn, $insert);
 
@@ -47,49 +47,49 @@ if(isset($_POST['send'])){
 
 <section class="contact">
 
-   <h1 class="heading">contact us</h1>
+   <h1 class="heading">Connecter Nous</h1>
 
    <form action="" method="post">
 
       <div class="flex">
 
          <div class="inputBox">
-            <span>your name</span>
-            <input type="text" placeholder="enter your name" name="name" required>
+            <span>Votre Nom </span>
+            <input type="text" placeholder="Entrer votre Nom" name="name" required>
          </div>
 
          <div class="inputBox">
-            <span>your email</span>
-            <input type="email" placeholder="enter your email" name="email" required>
+            <span>Votre Email</span>
+            <input type="email" placeholder="Entrer votre Email" name="email" required>
          </div>
 
          <div class="inputBox">
-            <span>your number</span>
-            <input type="number" placeholder="enter your number" name="number" required>
+            <span>Votre Numéro</span>
+            <input type="text" placeholder="Entrer votre Numéro" name="number" required>
          </div>
 
          <div class="inputBox">
-            <span>choose plan</span>
+            <span>Choisir Plan</span>
             <select name="plan">
-               <option value="basic">basic plan</option>
-               <option value="premium">premium plan</option>
-               <option value="ultimate">ultimate plan</option>
+               <option value="basic">Plan Basic </option>
+               <option value="premium">Plan Premium </option>
+               <option value="ultimate">Plan Ultimate </option>
             </select>
          </div>
 
          <div class="inputBox">
-            <span>your address</span>            
-            <textarea name="address" placeholder="enter your address" required cols="30" rows="10"></textarea>
+            <span>Votre Adresse</span>            
+            <textarea name="address" placeholder="Entrer votre Adresse" required cols="30" rows="10"></textarea>
          </div>
 
          <div class="inputBox">
-            <span>your message</span>            
-            <textarea name="message" placeholder="enter your message" required cols="30" rows="10"></textarea>
+            <span>Evènements choisie</span>            
+            <textarea name="event" placeholder="Entrer votre événement choisie " required cols="30" rows="10"></textarea>
          </div>
 
       </div>
 
-      <input type="submit" value="send message" name="send" class="btn">
+      <input type="submit" value="ENVOYER" name="send" class="btn">
 
    </form>
 

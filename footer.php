@@ -16,7 +16,7 @@
          <a href="#"> <i class="fas fa-angle-right"></i> plan your Events</a>
          <a href="#"> <i class="fas fa-angle-right"></i> Nos services</a>
          <a href="#"> <i class="fas fa-angle-right"></i> Votre Questions</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> terms of use</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> Notre termes</a>
          <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
       </div>
 
