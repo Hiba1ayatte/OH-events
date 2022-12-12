@@ -12,7 +12,7 @@
       </div>
 
       <div class="box">
-         <h3>Liens supplimentaires</h3>
+         <h3>Liens suppliments</h3>
          <a href="#"> <i class="fas fa-angle-right"></i> Plan your Events</a>
          <a href="#"> <i class="fas fa-angle-right"></i> Nos services</a>
          <a href="#"> <i class="fas fa-angle-right"></i> Votre Questions</a>
@@ -21,7 +21,7 @@
       </div>
 
       <div class="box">
-         <h3>Information Du Contact</h3>
+         <h3>Info Du Contact</h3>
          <a href="#"> <i class="fas fa-phone"></i> +212 655-913087 </a>
          <a href="#"> <i class="fas fa-phone"></i> +212 654-507452 </a>
          <a href="#"> <i class="fas fa-envelope"></i> hiba.ayatte123@gmail.com </a>
