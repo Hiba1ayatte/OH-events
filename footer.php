@@ -13,11 +13,11 @@
 
       <div class="box">
          <h3>Liens suppliments</h3>
-         <a href="#"> <i class="fas fa-angle-right"></i> Plan your Events</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> Planer votre Events</a>
          <a href="#"> <i class="fas fa-angle-right"></i> Nos services</a>
          <a href="#"> <i class="fas fa-angle-right"></i> Votre Questions</a>
          <a href="#"> <i class="fas fa-angle-right"></i> Notre termes</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> Politique de confidentialité</a>
       </div>
 
       <div class="box">
