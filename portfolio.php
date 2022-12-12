@@ -58,7 +58,7 @@
          <h3>fete de révélation</h3>
       </a>
 
-      <a href="images/port-img-5.jpg" class="box">
+      <a href="diplome.php" class="box">
          <div class="image">
             <img src="images_site/cong.jpg" alt="">
          </div>

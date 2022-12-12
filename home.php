@@ -64,7 +64,7 @@
         
         
 
-         <div class="swiper-slide slide" style="background:url(images_site/birthday/boys/boy1.jpg) no-repeat">
+         <div class="swiper-slide slide" style="background:url(images_site/wedding/maliknaex.jpeg) no-repeat">
             <div class="content">
                <h3>planifier vos évènements!</h3>
                <p>Des Jeunes Qui Planifient Vos Evènements:Marriage, Anniversaire,Fête De Révélation,Douche De Bébé...</p>
@@ -129,7 +129,7 @@
             <div class="content">
                <h3>remise de diplôme</h3>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
-               <a href="about.php" class="btn">Voir plus</a>
+               <a href="diplome.php" class="btn">Voir plus</a>
             </div>
          </div>
 
