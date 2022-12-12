@@ -52,7 +52,7 @@
          </div>
 
          <div class="swiper-slide slide">
-            <img src="images_site/birthday/girls/Pin by Yaninna Rodriguez on BACKDROP IDEAS Birthday party theme decorations, Balloon decorations party, 18th birthday decorations.jpg" alt="">
+            <img src="images_site/birthday/girls/girlbirthday.jpg" alt="">
             <div class="content">
                <a href="contact.php" class="btn">demander</a>
             </div>
@@ -63,21 +63,21 @@
 <div class="swiper mariage-slider" >
       <div class="swiper-wrapper">
         <div class="swiper-slide slide">
-            <img src="images_site/cakes/Dekorasi kue ulang tahun.jpg" alt="">
+            <img src="images_site/birthday/girls/cake1.png" alt="">
             <div class="content">
                <a href="acontact.php" class="btn">damander</a>
             </div>
          </div>
 
          <div class="swiper-slide slide">
-            <img src="images_site/cakes/Pasteles para celebrar el cumple de mamá Revista KENA México.jpg" alt="">
+            <img src="images_site/birthday/girls/cake2.png" alt="">
             <div class="content">
                <a href="contact.php" class="btn">demander</a>
             </div>
          </div>
 
          <div class="swiper-slide slide">
-            <img src="images_site/cakes/Rose butterfly cake.png" alt="">
+            <img src="images_site/birthday/girls/cake3.png" alt="">
             <div class="content">
                <a href="contact.php" class="btn">demander</a>
             </div>

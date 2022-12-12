@@ -41,6 +41,6 @@
 
    </div>
 
-   <p class="credit">all rights reserved </p>
+   <p class="credit">Tous les Droits Sont réservés </p>
 
 </section>

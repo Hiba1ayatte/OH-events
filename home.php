@@ -195,7 +195,7 @@
          </div>
 
          <div class="swiper-slide slide">
-            <img src="images/service-5.jpg" alt="">
+            <img src="images_site/services/animation.png" alt="">
             <div class="content">
                <h3>Animation & Musique</h3>
                <p>Une excellente ambiance avec un adorable équipe</p>

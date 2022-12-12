@@ -30,7 +30,7 @@
 
       <div class="box">
          <h3>Plan Basic</h3>
-         <div class="price">DH 4500/+</div>
+         <div class="price">DH 20 000/+</div>
          <div class="list">
             <p> <i class="fas fa-check"></i> photographie</p>
             <p> <i class="fas fa-check"></i> Maquiallage</p>
@@ -46,7 +46,7 @@
 
       <div class="box">
          <h3>Plan Premium </h3>
-         <div class="price">DH 7500/+</div>
+         <div class="price">DH 30 000/+</div>
          <div class="list">
          <p> <i class="fas fa-check"></i> photography</p>
          <p> <i class="fas fa-check"></i> Makeup</p>
@@ -61,7 +61,7 @@
 
       <div class="box">
          <h3>Plan Ultime </h3>
-         <div class="price">DH 15 500/+</div>
+         <div class="price">DH 60 000/+</div>
          <div class="list">
          <p> <i class="fas fa-check"></i> photography</p>
          <p> <i class="fas fa-check"></i> Makeup</p>
@@ -79,16 +79,16 @@
 
 <section class="reviews">
 
-   <h1 class="heading">happy clients</h1>
+   <h1 class="heading">Avis Clients</h1>
 
    <div class="swiper reviews-slider">
 
       <div class="swiper-wrapper">
 
          <div class="swiper-slide slide">
-            <img src="images/pic-1.png" alt="">
-            <h3>john doe</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga magni perspiciatis aut repellat nihil? Eveniet fugit eius quos architecto repellendus.</p>
+            <img src="images_site/client/client1.png" alt="">
+            <h3>la famille d'El Abssi</h3>
+            <p>Nous sommes très heureux ,nous avons apprécié la décoration de notre cérémonie.Elle est parfaite</p>
             <div class="stars">
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
@@ -99,22 +99,22 @@
          </div>
 
          <div class="swiper-slide slide">
-            <img src="images/pic-2.png" alt="">
-            <h3>john doe</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga magni perspiciatis aut repellat nihil? Eveniet fugit eius quos architecto repellendus.</p>
+            <img src="images_site/client/client2.png" alt="">
+            <h3>La famille de Wahabi</h3>
+            <p>Quel beau moment! l'organisation du mariage est plus que parfaite j'adore!!</p>
             <div class="stars">
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
-               <i class="fas fa-star"></i>
+               <!-- <i class="fas fa-star"></i> -->
             </div>
          </div>
 
          <div class="swiper-slide slide">
-            <img src="images/pic-3.png" alt="">
-            <h3>john doe</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga magni perspiciatis aut repellat nihil? Eveniet fugit eius quos architecto repellendus.</p>
+            <img src="images_site/client/client3.png" alt="">
+            <h3>Mademoiselle Najwa</h3>
+            <p>J'ai passé un bon anniversaire avec mes amis,je donne 5 étoiles.</p>
             <div class="stars">
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
@@ -139,19 +139,6 @@
 
          <div class="swiper-slide slide">
             <img src="images/pic-5.png" alt="">
-            <h3>john doe</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga magni perspiciatis aut repellat nihil? Eveniet fugit eius quos architecto repellendus.</p>
-            <div class="stars">
-               <i class="fas fa-star"></i>
-               <i class="fas fa-star"></i>
-               <i class="fas fa-star"></i>
-               <i class="fas fa-star"></i>
-               <i class="fas fa-star"></i>
-            </div>
-         </div>
-
-         <div class="swiper-slide slide">
-            <img src="images/pic-6.png" alt="">
             <h3>john doe</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga magni perspiciatis aut repellat nihil? Eveniet fugit eius quos architecto repellendus.</p>
             <div class="stars">

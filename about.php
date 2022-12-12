@@ -54,7 +54,8 @@
          <img src="images_site/index1.jpg" alt="">
          <h3>Ouhsaine Oumaima</h3>
          <p>Organisateur & Décore </p>
-         <p>Annimateur & DJ </p>
+         <p>Coiffeur & Maquilleur</p>
+         
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
@@ -67,7 +68,7 @@
          <img src="images_site/index3.jpg" alt="">
          <h3>Aguerd Nayef</h3>
          <p>Organisateur</p>
-         <p>Coiffeur & Maquilleur</p>
+         <p>Annimateur & DJ </p>
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>

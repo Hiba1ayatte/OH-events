@@ -45,7 +45,7 @@
          </div>
 
          <div class="swiper-slide slide">
-            <img src="images_site/birthday/boys/Transportation Themed Birthday Party Ideas Photo 2 of 8.jpg" alt="">
+            <img src="images_site/birthday/boys/boy9.png" alt="">
             <div class="content">
                <a href="contact.php" class="btn">demander</a>
             </div>
