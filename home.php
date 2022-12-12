@@ -56,7 +56,7 @@
                </video>
                <div class="video">
                <h1>PLANIFIER VOS EVENEMENTS</h1>
-               <a href="about.php" class="btn">Découvrir ICI</a> 
+               <a href="portfolio.php" class="btn">Découvrir ICI</a> 
                
             </div>
          </div>
@@ -68,7 +68,7 @@
             <div class="content">
                <h3>planifier vos évènements!</h3>
                <p>Des Jeunes Qui Planifient Vos Evènements:Marriage, Anniversaire,Fête De Révélation,Douche De Bébé...</p>
-               <a href="about.php" class="btn">Découvrir ICI</a>
+               <a href="portfolio.php" class="btn">Découvrir ICI</a>
             </div>
          </div>
 
@@ -92,7 +92,7 @@
             <img src="images_site/wedding/wed1.jpg" alt="">
             <div class="content">
                <h3>Mariage</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
+               <p>Organiser votre cérémonie à un long et heureux mariage </p>
                <a href="mariage.php" class="btn">voir plus</a>
             </div>
          </div>
@@ -101,7 +101,7 @@
             <img src="images_site/birthday/SlG7pNAv.jpg" alt="">
             <div class="content">
                <h3>Les anniversaires</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
+               <p>Organiser votre anniversaire pour s'amuser au moment </p>
                <a href="homeanniv.php" class="btn">Voir plus</a>
             </div>
          </div>
@@ -110,7 +110,7 @@
             <img src="images_site/birthday/Décoration Baby Shower.jpg" alt="">
             <div class="content">
                <h3>douche de bébé</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
+               <p>On planifie votre moment et vous amusez votre grossesse</p>
                <a href="baby-shower.php" class="btn">Voir plus</a>
             </div>
          </div>
@@ -119,7 +119,7 @@
             <img src="images_site/birthday/TqpV9fep.jpg" alt="">
             <div class="content">
                <h3>fête de révélation </h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
+               <p>Sachez le sexe du bébé et divertissiez votre occasion</p>
                <a href="gender.php" class="btn">Voir plus</a>
             </div>
          </div>
@@ -128,7 +128,7 @@
             <img src="images_site/Graduation Tassel Cake.jpg" alt="">
             <div class="content">
                <h3>remise de diplôme</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
+               <p>On organise votre occasion et vous vous amusez votre bonheur</p>
                <a href="diplome.php" class="btn">Voir plus</a>
             </div>
          </div>
@@ -137,7 +137,7 @@
             <img src="images_site/wedding/Moroccan Takshita.jpg" alt="">
             <div class="content">
                <h3>FIANÇAILLE</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
+               <p>Organiser votre cérémonie à un heureux mariage</p>
                <a href="fiancelle.php" class="btn">Voir plus</a>
             </div>
          </div>
@@ -162,7 +162,7 @@
             <img src="images_site/services/photography.png" alt="">
             <div class="content">
                <h3>photographie</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
+               <p>La poésie dévoile la vision de l'âme et la photographie l'âme de la vision.</p>
                <a href="about.php" class="btn">about us</a>
             </div>
          </div>
@@ -171,7 +171,7 @@
             <img src="images_site/services/invitation.jfif" alt="">
             <div class="content">
                <h3>Invitations</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
+               <p>Des belles invitations pour vos proches invités</p>
                <a href="about.php" class="btn">à propos de nous</a>
             </div>
          </div>
@@ -180,7 +180,7 @@
             <img src="images_site/services/decoration.jfif" alt="">
             <div class="content">
                <h3>Décoration</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
+               <p>On décore vos cérémonies</p>
                <a href="about.php" class="btn">à propos de nous</a>
             </div>
          </div>
@@ -188,8 +188,8 @@
          <div class="swiper-slide slide">
             <img src="images_site/services/makeup.jfif" alt="">
             <div class="content">
-               <h3>Makeup</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
+               <h3>Maquillage</h3>
+               <p>un parfait maquillage pour un parfait cérémonie!</p></p>
                <a href="about.php" class="btn">à propos de nous</a>
             </div>
          </div>
@@ -197,8 +197,8 @@
          <div class="swiper-slide slide">
             <img src="images/service-5.jpg" alt="">
             <div class="content">
-               <h3>Animation & Music</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
+               <h3>Animation & Musique</h3>
+               <p>Une excellente ambiance avec un adorable équipe</p>
                <a href="about.php" class="btn">à propos de nous</a>
             </div>
          </div>
@@ -206,8 +206,8 @@
          <div class="swiper-slide slide">
             <img src="images_site/services/meals.jpg" alt="">
             <div class="content">
-               <h3>Meals & Drinks</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
+               <h3>Repas</h3>
+               <p>Nulle table ne peut remplacer le partage d'un repas simple orné d'une touche d'amour et d'amitié. </p>
                <a href="about.php" class="btn">à propos de nous</a>
             </div>
          </div>
