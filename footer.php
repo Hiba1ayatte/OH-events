@@ -3,7 +3,7 @@
    <div class="box-container">
 
       <div class="box">
-         <h3>Quick links</h3>
+         <h3>Liens Rapide</h3>
          <a href="home.php"> <i class="fas fa-angle-right"></i> Page d'Acceuik</a>
          <a href="about.php"> <i class="fas fa-angle-right"></i> A Propos</a>
          <a href="portfolio.php"> <i class="fas fa-angle-right"></i> Nos Designs</a>
@@ -12,8 +12,8 @@
       </div>
 
       <div class="box">
-         <h3>extra links</h3>
-         <a href="#"> <i class="fas fa-angle-right"></i> plan your Events</a>
+         <h3>Liens supplimentaires</h3>
+         <a href="#"> <i class="fas fa-angle-right"></i> Plan your Events</a>
          <a href="#"> <i class="fas fa-angle-right"></i> Nos services</a>
          <a href="#"> <i class="fas fa-angle-right"></i> Votre Questions</a>
          <a href="#"> <i class="fas fa-angle-right"></i> Notre termes</a>
@@ -21,7 +21,7 @@
       </div>
 
       <div class="box">
-         <h3>contact info</h3>
+         <h3>Information Du Contact</h3>
          <a href="#"> <i class="fas fa-phone"></i> +212 655-913087 </a>
          <a href="#"> <i class="fas fa-phone"></i> +212 654-507452 </a>
          <a href="#"> <i class="fas fa-envelope"></i> hiba.ayatte123@gmail.com </a>
@@ -30,12 +30,12 @@
       </div>
 
       <div class="box">
-         <h3>follow us</h3>
-         <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
-         <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
-         <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
-         <a href="#"> <i class="fab fa-whatsapp"></i> whatsApp </a>
-         <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
+         <h3>Suivez-Nous</h3>
+         <a href="#"> <i class="fab fa-facebook-f"></i> Facebook </a>
+         <a href="#"> <i class="fab fa-twitter"></i> Twitter </a>
+         <a href="#"> <i class="fab fa-instagram"></i> Instagram </a>
+         <a href="#"> <i class="fab fa-whatsapp"></i> WhatsApp </a>
+         <a href="#"> <i class="fab fa-linkedin"></i> Linkedin </a>
          
       </div>
 
