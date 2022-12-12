@@ -47,7 +47,7 @@ if(isset($_POST['send'])){
 
 <section class="contact">
 
-   <h1 class="heading">Connecter Nous</h1>
+   <h1 class="heading">Connectez-Nous</h1>
 
    <form action="" method="post">
 
@@ -83,8 +83,8 @@ if(isset($_POST['send'])){
          </div>
 
          <div class="inputBox">
-            <span>Evènements choisie</span>            
-            <textarea name="event" placeholder="Entrer votre événement choisie " required cols="30" rows="10"></textarea>
+            <span>Evènements choisi</span>            
+            <textarea name="event" placeholder="Entrer votre événement choisi " required cols="30" rows="10"></textarea>
          </div>
 
       </div>
