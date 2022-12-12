@@ -14,7 +14,7 @@
 
    <!-- custom css file link  -->
    <link rel="stylesheet" href="css/style.css">
-
+   </style>
 </head>
 <body>
    
@@ -26,7 +26,6 @@
 
    <img src="images_site/wedding/dep.jpg" alt="">
    <h3>A propos</h3>
-   <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores voluptates laudantium tempore, quaerat dolorem libero quibusdam temporibus inventore debitis maxime nihil consectetur impedit neque. Quisquam doloribus dolor suscipit enim? Delectus.</p>
    <a href="contact.php" class="btn">contacter-nous❤</a>
 
 </section>

@@ -133,7 +133,7 @@ section{
 .home .slide .content{
    background: var(--transparent-white);
    border-radius: .5rem;
-   backdrop-filter: blur(.5rem);
+   backdrop-filter: blur(.1rem);
    box-shadow: var(--box-shadow);
    text-align: center;
    padding:2rem;

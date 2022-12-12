@@ -14,7 +14,33 @@
 
    <!-- custom css file link  -->
    <link rel="stylesheet" href="css/style.css">
-
+   <style>
+      /* video{
+         height:100%;
+         width: 100%;
+      } */
+      @media(min-aspect-ratio:16/9){
+        .back-video{
+         width: 100%;
+         height:auto;
+        }
+      }
+      .back-video{
+         position:absolute;
+         right:0; bottom:0;
+         z-index:0; 
+      }
+   .video{
+   background: var(--transparent-white);
+   border-radius: .5rem;
+   backdrop-filter: blur(.1rem);
+   box-shadow: var(--box-shadow);
+   text-align: center;
+   padding:2rem;
+   width:35rem;
+}
+     
+   </style>
 </head>
 <body>
    
@@ -28,11 +54,14 @@
 
       <div class="swiper-wrapper">
 
-         <div class="swiper-slide slide" style="background:url(images_site/wedding/maliknaex.jpeg) no-repeat">
-            <div class="content">
-               <h3>planifier vos évènements</h3>
-               <p>Des jeunes qui planifient vos évènements:marriage,anniversaire,fête de révélation,douche de bébé...</p>
-               <a href="about.php" class="btn">Découvrir ici</a>
+               <div class="swiper-slide slide">
+               <video autoplay loop muted plays-inline  class="back-video">
+                  <source src="images_site/video/videomarriage.mp4">
+               </video>
+               <div class="video">
+               <h1>PLANIFIER VOS EVENEMENTS</h1>
+               <a href="about.php" class="btn">Découvrir ICI</a> 
+               
             </div>
          </div>
 
@@ -42,8 +71,8 @@
          <div class="swiper-slide slide" style="background:url(images_site/birthday/boys/boy1.jpg) no-repeat">
             <div class="content">
                <h3>planifier vos évènements!</h3>
-               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Impedit, obcaecati quos. Minima eius qui id quas atque corporis, quia nulla.</p>
-               <a href="about.php" class="btn">Découvrir ici</a>
+               <p>Des Jeunes Qui Planifient Vos Evènements:Marriage, Anniversaire,Fête De Révélation,Douche De Bébé...</p>
+               <a href="about.php" class="btn">Découvrir ICI</a>
             </div>
          </div>
 
@@ -95,7 +124,7 @@
             <div class="content">
                <h3>fête de révélation </h3>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
-               <a href="about.php" class="btn">about us</a>
+               <a href="gender.php" class="btn">about us</a>
             </div>
          </div>
 

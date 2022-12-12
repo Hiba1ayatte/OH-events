@@ -51,7 +51,7 @@
          <h3>la douche de bébé</h3>
       </a>
 
-      <a href="images/port-img-4.jpg" class="box">
+      <a href="gender.php" class="box">
          <div class="image">
             <img src="images_site/birthday/TqpV9fep.jpg" alt="">
          </div>
