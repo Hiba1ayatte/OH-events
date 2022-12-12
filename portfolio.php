@@ -65,7 +65,7 @@
          <h3>Remise de diplome</h3>
       </a>
 
-      <a href="images_site/f.jpg" class="box">
+      <a href="fiancelle.php" class="box">
          <div class="image">
             <img src="images_site/f.jpg" alt="">
          </div>

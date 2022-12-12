@@ -15,10 +15,6 @@
    <!-- custom css file link  -->
    <link rel="stylesheet" href="css/style.css">
    <style>
-      /* video{
-         height:100%;
-         width: 100%;
-      } */
       @media(min-aspect-ratio:16/9){
         .back-video{
          width: 100%;
@@ -30,14 +26,14 @@
          right:0; bottom:0;
          z-index:0; 
       }
-   .video{
-   background: var(--transparent-white);
-   border-radius: .5rem;
-   backdrop-filter: blur(.1rem);
-   box-shadow: var(--box-shadow);
-   text-align: center;
-   padding:2rem;
-   width:35rem;
+     .video{
+        background: var(--transparent-white);
+        border-radius: .5rem;
+        backdrop-filter: blur(.1rem);
+        box-shadow: var(--box-shadow);
+        text-align: center;
+        padding:2rem;
+        width:35rem;
 }
      
    </style>
@@ -124,7 +120,7 @@
             <div class="content">
                <h3>fête de révélation </h3>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
-               <a href="gender.php" class="btn">about us</a>
+               <a href="gender.php" class="btn">Voir plus</a>
             </div>
          </div>
 
@@ -133,7 +129,7 @@
             <div class="content">
                <h3>remise de diplôme</h3>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
-               <a href="about.php" class="btn">about us</a>
+               <a href="about.php" class="btn">Voir plus</a>
             </div>
          </div>
 
@@ -142,7 +138,7 @@
             <div class="content">
                <h3>FIANÇAILLE</h3>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
-               <a href="about.php" class="btn">about us</a>
+               <a href="fiancelle.php" class="btn">Voir plus</a>
             </div>
          </div>
 
@@ -176,7 +172,7 @@
             <div class="content">
                <h3>Invitations</h3>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
-               <a href="about.php" class="btn">about us</a>
+               <a href="about.php" class="btn">à propos de nous</a>
             </div>
          </div>
 
@@ -185,7 +181,7 @@
             <div class="content">
                <h3>Décoration</h3>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
-               <a href="about.php" class="btn">about us</a>
+               <a href="about.php" class="btn">à propos de nous</a>
             </div>
          </div>
 
@@ -194,7 +190,7 @@
             <div class="content">
                <h3>Makeup</h3>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
-               <a href="about.php" class="btn">about us</a>
+               <a href="about.php" class="btn">à propos de nous</a>
             </div>
          </div>
 
@@ -203,7 +199,7 @@
             <div class="content">
                <h3>Animation & Music</h3>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
-               <a href="about.php" class="btn">about us</a>
+               <a href="about.php" class="btn">à propos de nous</a>
             </div>
          </div>
 
@@ -212,7 +208,7 @@
             <div class="content">
                <h3>Meals & Drinks</h3>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
-               <a href="about.php" class="btn">about us</a>
+               <a href="about.php" class="btn">à propos de nous</a>
             </div>
          </div>
 
