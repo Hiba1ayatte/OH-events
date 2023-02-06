@@ -50,22 +50,19 @@
 
       <div class="swiper-wrapper">
 
-               <div class="swiper-slide slide">
+            <div class="swiper-slide slide">
                <video autoplay loop muted plays-inline  class="back-video">
                   <source src="images_site/video/videomarriage.mp4">
                </video>
                <div class="video">
-               <h1>PLANIFIER VOS EVENEMENTS</h1>
+               <h1>PLANIFIER VOTRE EVENEMENTS</h1><br>
+               <?php include('calendrier.php');  ?>
                <a href="portfolio.php" class="btn">Découvrir ICI</a> 
-               
+               </div>
             </div>
-         </div>
-
-        
-        
-
-         <div class="swiper-slide slide" style="background:url(images_site/wedding/maliknaex.jpeg) no-repeat">
-            <div class="content">
+             
+            <div class="swiper-slide slide" style="background:url(images_site/wedding/maliknaex.jpeg) no-repeat">
+              <div class="content">
                <h3>planifier vos évènements!</h3>
                <p>Des Jeunes Qui Planifient Vos Evènements:Marriage, Anniversaire,Fête De Révélation,Douche De Bébé...</p>
                <a href="portfolio.php" class="btn">Découvrir ICI</a>
